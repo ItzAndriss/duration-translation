@@ -1,0 +1,30 @@
+{
+    "seconds": {
+    "singular": "secondo",
+    "plural": "secondi"
+    },
+    "minutes": {
+    "singular": "minuto",
+    "plural": "minuti"
+    },
+    "days": {
+    "singular": "giorno",
+    "plural": "giorni"
+    },
+    "hours": {
+    "singular": "ora",
+    "plural": "ore"
+    },
+    "months": {
+    "singular": "mese",
+    "plural": "mesi"
+    },
+    "years": {
+    "singular": "anno",
+    "plural": "anni"
+    },
+    "default": {
+    "singular": "volta",
+    "plural": "volte"
+    }
+    }

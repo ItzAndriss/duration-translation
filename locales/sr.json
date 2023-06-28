@@ -1,0 +1,30 @@
+{
+    "seconds": {
+    "singular": "sekunda",
+    "plural": "sekunde"
+    },
+    "minutes": {
+    "singular": "minut",
+    "plural": "minuta"
+    },
+    "days": {
+    "singular": "dan",
+    "plural": "dana"
+    },
+    "hours": {
+    "singular": "sat",
+    "plural": "sati"
+    },
+    "months": {
+    "singular": "mesec",
+    "plural": "meseci"
+    },
+    "years": {
+    "singular": "godina",
+    "plural": "godine"
+    },
+    "default": {
+    "singular": "put",
+    "plural": "puta"
+    }
+    }

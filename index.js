@@ -1,5 +1,3 @@
-const fs = require('fs');
-
 function duration(time, locale) {
     const duration = parseInt(time);
     const unit = time.slice(-1);
@@ -24,7 +22,7 @@ function duration(time, locale) {
 }
 
 function getMessage(key, duration, locale) {
-  const translations = JSON.parse(fs.readFileSync(`./locales/${locale}.json`))[key];
+  const translations = require(`./locales/${locale}.json`)[key];
   const singular = translations['singular'];
   const plural = translations['plural'];
 

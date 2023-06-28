@@ -1,0 +1,30 @@
+{
+    "seconds": {
+    "singular": "sekonde",
+    "plural": "sekondes"
+    },
+    "minutes": {
+    "singular": "minuut",
+    "plural": "minute"
+    },
+    "days": {
+    "singular": "dag",
+    "plural": "dae"
+    },
+    "hours": {
+    "singular": "uur",
+    "plural": "ure"
+    },
+    "months": {
+    "singular": "maand",
+    "plural": "maande"
+    },
+    "years": {
+    "singular": "jaar",
+    "plural": "jare"
+    },
+    "default": {
+    "singular": "keer",
+    "plural": "keer"
+    }
+    }

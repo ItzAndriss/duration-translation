@@ -1,14 +1,19 @@
 {
   "name": "duration-translation",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "The Time Unit Translator is a lightweight npm package for translating time units with ease. Convert seconds, minutes, hours, days, and months into localized forms in any language. Customize translations and formatting effortlessly. Open source and user-friendly.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItzAndriss/duration-translation.git"
+  },
   "author": "ItzAndriss",
   "license": "MIT",
-  "dependencies": {
-    "fs": "^0.0.1-security"
-  }
+  "bugs": {
+    "url": "https://github.com/ItzAndriss/duration-translation/issues"
+  },
+  "homepage": "https://github.com/ItzAndriss/duration-translation#readme"
 }
